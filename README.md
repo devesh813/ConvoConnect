@@ -1,5 +1,5 @@
 # ConvoConnect
-Messaging App
+Messaging App using Android Studio and Java
 
 
 ## List of Components used:
